@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logueo_TUDaniel</string>
+    <string name="directrizUsu">User:</string>
+    <string name="contraseniaUsu">Password:</string>
+    <string name="acceder">ACCES</string>
+    <string name="volver">BACK</string>
+    <string name="pulsa">PUSH</string>
+</resources>

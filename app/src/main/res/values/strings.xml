@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Logueo_TUDaniel</string>
+
+    <!--Administradores -->
+    <string name="administrador" translatable="false">Admin</string>
+    <string name="contraseñaAdmin" translatable="false">admin</string>
+    <string name="administrador2" translatable="false">Dan</string>
+    <string name="contraseñaAdmin2" translatable="false">dan</string>
+
+    <!--Usuarios-->
+    <string name="usuario" translatable="false">Usuario</string>
+    <string name="contraseñaUsuario" translatable="false">usuario</string>
+    <string name="usuario2" translatable="false">Ana</string>
+    <string name="contraseñaUsuario2" translatable="false">ana</string>
+
+    <!--**********************************-->
+    <string name="directrizUsu">Usuario:</string>
+    <string name="contraseniaUsu">Contraseña: </string>
+    <string name="acceder">ACCEDER</string>
+    <string name="volver">VOLVER</string>
+    <string name="pulsa">PULSA</string>
+
+</resources>
